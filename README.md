@@ -15,7 +15,8 @@ Share my labs and final products of IA241
 ### level 3 heading
 
 **bold**
-*italicize
+
+*italicize*
 
 >quote
 
@@ -23,6 +24,6 @@ Share my labs and final products of IA241
 2. item2
 3. item3
 
-*item1
-*item2
-*item3
+* item1
+* item2
+* item3
