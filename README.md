@@ -13,3 +13,8 @@ Share my labs and final products of IA241
 3rd paragraphs
 
 ### level 3 heading
+
+**bold**
+*italicize
+
+>quote
